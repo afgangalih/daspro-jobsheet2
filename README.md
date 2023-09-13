@@ -1,3 +1,3 @@
 # Dasar Pemrograman - Jobsheet 2
 
-harus diubahgi Github,ini adalah repository pertama sayaaaaaaagiot
+Hi Github,ini adalah repository pertama saya
